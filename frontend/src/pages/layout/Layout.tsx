@@ -8,7 +8,6 @@ import Contoso from '../../assets/Contoso.svg'
 import Accenture_logo from '../../assets/Accenture_logo.svg'
 import { HistoryButton, ShareButton } from '../../components/common/Button'
 import { AppStateContext } from '../../state/AppProvider'
-
 import styles from './Layout.module.css'
 
 const Layout = () => {
